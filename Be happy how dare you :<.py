@@ -1,5 +1,5 @@
-print(I demand your joy)
-print(obviously for you not me)
+print(I hope for your joy)
+print(talk to me)
 while True:
   description = input("How do you feel?")
 
